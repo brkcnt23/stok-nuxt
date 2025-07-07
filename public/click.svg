@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="188.9781"
+   height="189.08379"
+   viewBox="0 0 50.000457 50.028417"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4-dev (1:1.4.0-dev+202403210151+2fe0648968)"
+   sodipodi:docname="cursor.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#262626"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#1a1a1a"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.063252911"
+     inkscape:cx="-158.09549"
+     inkscape:cy="1596.7644"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-421.78843,-171.98132)">
+    <!-- Icon from Streamline by Streamline - https://creativecommons.org/licenses/by/4.0/ -->
+    <path
+       fill="none"
+       stroke="currentColor"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       d="m 468.25431,191.22229 a 1.7679054,1.7679054 0 0 0 0,-3.53581 l -40.02433,-13.75396 a 3.5357216,3.5357216 0 0 0 -4.49035,4.49035 l 13.93076,40.05974 a 1.7678609,1.7678609 0 0 0 3.53568,0 l 7.07149,-20.01216 z"
+       id="path1"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.5;stroke:#2ad4ff;stroke-width:3.53572" />
+  </g>
+</svg>

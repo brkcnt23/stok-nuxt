@@ -1,0 +1,84 @@
+User-agent: *
+Allow: /
+Disallow: /login
+Disallow: /panel
+Disallow: /api/
+
+# Crawl-delay directive for better server performance
+Crawl-delay: 1
+
+# AI Search Engines - Allow all for better visibility
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OpenAI-Searchbot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Bard
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Anthropic-AI
+Allow: /
+
+# Search Engines - Full access
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# Block resource-wasting bots
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MegaIndex
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+# Allow Google Image for indexing images
+User-agent: Googlebot-Image
+Allow: /*.webp$
+Allow: /*.svg$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+
+# Allow Google Video for video content
+User-agent: Googlebot-Video
+Allow: /*.mp4$
+Allow: /*.webm$
+
+# Sitemap declarations
+Sitemap: https://asma-germe.com/sitemap.xml
+Sitemap: https://asma-germe.com/sitemap-blogs.xml
+Sitemap: https://asma-germe.com/sitemap-images.xml
+
+# Website info for AI search engines
+# Host: asma-germe.com
+# Business: Professional Awning Services
+# Location: Istanbul, Turkey
+# Languages: Turkish (tr), English (en)
+# Services: Balcony Awnings, Terrace Awnings, Pergola Awnings, ETFE Systems

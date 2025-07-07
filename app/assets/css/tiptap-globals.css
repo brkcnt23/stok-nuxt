@@ -1,0 +1,72 @@
+/* TipTap editörü tarafından oluşturulan içeriğin görüntülenmesi için global stiller */
+
+/* Blogdaki listeler için özel stiller (TipTap düzenlemesi için) */
+.ProseMirror ul,
+.blog-content ul {
+  list-style-type: disc !important;
+  padding-left: 1.5em !important;
+  margin-top: 0.5em !important;
+  margin-bottom: 0.5em !important;
+}
+
+.ProseMirror ol,
+.blog-content ol {
+  list-style-type: decimal !important;
+  padding-left: 1.5em !important;
+  margin-top: 0.5em !important;
+  margin-bottom: 0.5em !important;
+}
+
+.ProseMirror li,
+.blog-content li {
+  display: list-item !important;
+  list-style-position: outside !important;
+}
+
+/* Başlık tipleri */
+.ProseMirror h1,
+.blog-content h1 {
+  font-size: 2em !important;
+  font-weight: 700 !important;
+}
+
+.ProseMirror h2,
+.blog-content h2 {
+  font-size: 1.5em !important;
+  font-weight: 600 !important;
+}
+
+.ProseMirror h3,
+.blog-content h3 {
+  font-size: 1.25em !important;
+  font-weight: 600 !important;
+}
+
+/* Alıntı stilleri */
+.ProseMirror blockquote,
+.blog-content blockquote {
+  border-left: 4px solid #e5e7eb;
+  padding-left: 1em;
+  font-style: italic;
+}
+
+/* Hizalama sınıfları */
+.ProseMirror .text-left,
+.blog-content .text-left {
+  text-align: left !important;
+}
+
+.ProseMirror .text-center,
+.blog-content .text-center {
+  text-align: center !important;
+}
+
+.ProseMirror .text-right,
+.blog-content .text-right {
+  text-align: right !important;
+}
+
+.ProseMirror .text-justify,
+.blog-content .text-justify {
+  text-align: justify !important;
+}
